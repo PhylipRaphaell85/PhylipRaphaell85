@@ -43,7 +43,7 @@ Atualmente focado em desenvolvimento web com HTML, CSS e JavaScript, buscando ev
 Projeto criado para praticar versionamento utilizando Git e GitHub.
 
 🔗 Repositório:
-[https://github.com/PhylipeRaphaell85/aula-git](https://github.com/PhylipeRaphaell85/aula-git)
+[https://github.com/PhylipeRaphaell85/aula-git](https://github.com/PhylipeRaphaell85](https://github.com/PhylipRaphaell85?tab=repositories)
 
 ---
 
